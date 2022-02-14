@@ -1,0 +1,6 @@
+D:\Study\DSA\DSA450QUESTIONS\Live\Rev_Array_Rec\Rev_Array_Rec\bin\Debug\Rev_Array_Rec.exe.config
+D:\Study\DSA\DSA450QUESTIONS\Live\Rev_Array_Rec\Rev_Array_Rec\bin\Debug\Rev_Array_Rec.exe
+D:\Study\DSA\DSA450QUESTIONS\Live\Rev_Array_Rec\Rev_Array_Rec\bin\Debug\Rev_Array_Rec.pdb
+D:\Study\DSA\DSA450QUESTIONS\Live\Rev_Array_Rec\Rev_Array_Rec\obj\Debug\Rev_Array_Rec.csproj.CoreCompileInputs.cache
+D:\Study\DSA\DSA450QUESTIONS\Live\Rev_Array_Rec\Rev_Array_Rec\obj\Debug\Rev_Array_Rec.exe
+D:\Study\DSA\DSA450QUESTIONS\Live\Rev_Array_Rec\Rev_Array_Rec\obj\Debug\Rev_Array_Rec.pdb
