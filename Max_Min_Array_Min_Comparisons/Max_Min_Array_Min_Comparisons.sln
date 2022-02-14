@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max_Min_Array_Min_Comparisons", "Max_Min_Array_Min_Comparisons\Max_Min_Array_Min_Comparisons.csproj", "{44C6D1B9-296D-4CC0-97B8-5B5A6D1FDC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C6D1B9-296D-4CC0-97B8-5B5A6D1FDC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C6D1B9-296D-4CC0-97B8-5B5A6D1FDC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C6D1B9-296D-4CC0-97B8-5B5A6D1FDC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C6D1B9-296D-4CC0-97B8-5B5A6D1FDC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44D4442-3C6D-4026-B9FD-BFEE8739813C}
+	EndGlobalSection
+EndGlobal
